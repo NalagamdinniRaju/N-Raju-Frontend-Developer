@@ -22,7 +22,7 @@ const Features = () => {
                 </p>
               </div>
               <div className='featureMarketImage'>
-              <img src='MarketInsght.png' alt ="MarketInsght" className='MarketInsght'/>
+              <img src='https://res.cloudinary.com/dwiq4s5ut/image/upload/v1729093733/MarketInsght_qovo0z.png' alt ="MarketInsght" className='MarketInsght'/>
   
               </div>
             </div>
@@ -34,7 +34,7 @@ const Features = () => {
             </div>
           </div>
           <div className="featuresCard">
-            <div >          <img src="featurspage.png" alt="Market Insight Image" /> 
+            <div >          <img src="https://res.cloudinary.com/dwiq4s5ut/image/upload/v1729093731/featurspage_yzfrxm.png" alt="Market Insight Image" /> 
             </div>
             <h3>Risk Guard Agent</h3>
             <p>
@@ -49,7 +49,7 @@ const Features = () => {
               Easily manage your portfolio. You'll always know what you own, how it's performing, and where it's headed.
             </p>
             <div className="">
-            <img  src="ProtofolioImage.png" alt="PortfolioSync" className='PortfolioSync'/>
+            <img  src="https://res.cloudinary.com/dwiq4s5ut/image/upload/v1729093736/ProtofolioImage_tbltof.png" alt="PortfolioSync" className='PortfolioSync'/>
             </div>
           </div>
           <div className="featuresBottomCard">
@@ -60,7 +60,7 @@ const Features = () => {
             </p>
             </div>
             <div className="OpportunityScoutContainer">
-              <img  src="OpportunityImage.png" alt="OpportunityScout" className='OpportunityScout'/>
+              <img  src="https://res.cloudinary.com/dwiq4s5ut/image/upload/v1729093734/OpportunityImage_nhk9pf.png" alt="OpportunityScout" className='OpportunityScout'/>
             </div>
           </div>
         </div>

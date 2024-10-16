@@ -21,14 +21,14 @@ const Tokenomics = () => {
   return (
     <div className="tokenomics-main-container" id='tokenomics'>
       <video autoPlay loop muted className="background-video">
-        <source src="https://res.cloudinary.com/dwiq4s5ut/video/upload/v1729090355/GraphBackgroundVide_y9ykla.mov" type="video/mp4" />
+        <source src="GraphBackgroundVide (1).mp4" type="video/mp4" />
         Your browser does not support the video tag.
       </video>
       <div className="content-wrapper">
         <h1 className='tokenomics-heading'>Tokenomics</h1>
         <div className="tokenomics-container">
           <div className="chart-container">
-            <img src="Token Graph.png" alt="Token Graph" className="token-graph"/>
+            <img src="https://res.cloudinary.com/dwiq4s5ut/image/upload/v1729093021/Token_Graph_k8whf1.png" alt="Token Graph" className="token-graph"/>
         
           </div>
           <div className="info-container">

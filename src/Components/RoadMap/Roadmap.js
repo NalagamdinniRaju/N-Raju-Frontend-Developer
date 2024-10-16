@@ -22,7 +22,7 @@ function Roadmap() {
         <div className="phase-1-image-info">
           <div className="video-container">
             <video autoPlay loop muted className="phase-image">
-              <source src="RoadmapVidoe2.mp4" type="video/mp4" />
+              <source src="https://res.cloudinary.com/dwiq4s5ut/video/upload/v1729093729/RoadmapVidoe2_bkgdjg.mp4" type="video/mp4" />
               Your browser does not support the video tag.
             </video>
           </div>
@@ -34,7 +34,7 @@ function Roadmap() {
         <div className="phase-2-image-info">
           <div className="video-container">
             <video autoPlay loop muted className="phase-image">
-              <source src="RoadmapVidoe1.mp4" type="video/mp4" />
+              <source src="https://res.cloudinary.com/dwiq4s5ut/video/upload/v1729093663/RoadmapVidoe1_nftkqw.mp4" type="video/mp4" />
               Your browser does not support the video tag.
             </video>
           </div>
@@ -66,7 +66,7 @@ function Roadmap() {
         <div className="phase-3-image-info">
           <div className="video-container">
             <video autoPlay loop muted className="phase-image">
-              <source src="RoadmapVidoe3.mp4" type="video/mp4" />
+              <source src="https://res.cloudinary.com/dwiq4s5ut/video/upload/v1729090494/RoadmapVidoe3_jo5qec.mp4" type="video/mp4" />
               Your browser does not support the video tag.
             </video>
           </div>

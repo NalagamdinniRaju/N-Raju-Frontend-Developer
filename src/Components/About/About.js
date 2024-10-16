@@ -18,7 +18,7 @@ const About = () => {
           <div className="about-features">
             <div className="about-feature">
               <div className="about-feature-icon">
-                <img  src="graph.png" alt="graph" className='icon'/>
+                <img  src="https://res.cloudinary.com/dwiq4s5ut/image/upload/v1729093732/graph_v1vpcl.png" alt="graph" className='icon'/>
 
               </div>
               <h3 className="about-feature-title">Stay Ahead</h3>
@@ -26,7 +26,7 @@ const About = () => {
             </div>
             <div className="about-feature">
               <div className="about-feature-icon">
-              <img  src="Vector.png" alt="Valuet" className='icon'/>
+              <img  src="https://res.cloudinary.com/dwiq4s5ut/image/upload/v1729093021/Vector_dbkxnh.png" alt="Valuet" className='icon'/>
 
               </div>
               <h3 className="about-feature-title">Know Your Assets</h3>
@@ -34,7 +34,7 @@ const About = () => {
             </div>
             <div className="about-feature">
               <div className="about-feature-icon">
-              <img  src="Prooficon.png" alt="Prooficon" className='icon'/>
+              <img  src="https://res.cloudinary.com/dwiq4s5ut/image/upload/v1729093737/ProofIcon_chph9b.png" alt="Prooficon" className='icon'/>
 
               </div>
               <h3 className="about-feature-title">Simple, Not Overwhelming</h3>
@@ -42,7 +42,7 @@ const About = () => {
             </div>
             <div className="about-feature">
               <div className="about-feature-icon">
-              <img  src="SettingsIcon.png" alt="SettingsIcon" className='icon'/>
+              <img  src="https://res.cloudinary.com/dwiq4s5ut/image/upload/v1729093739/SettingsIcon_sijt17.png" alt="SettingsIcon" className='icon'/>
 
               </div>
               <h3 className="about-feature-title">Future-Proof</h3>
@@ -50,7 +50,7 @@ const About = () => {
             </div>
           </div>
           <video className="video" autoPlay loop muted>
-            <source src="https://res.cloudinary.com/dwiq4s5ut/video/upload/v1729090082/backgroundEffect_tzbcww.mp4" type="video/mp4" className='video-size'/>
+            <source src="backgroundEffectRight.mp4" type="video/mp4" className='video-size'/>
             Your browser does not support the video tag.
           </video>
         </div>

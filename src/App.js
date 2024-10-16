@@ -18,7 +18,7 @@ function App() {
     <div className='app'>
     <div className="App">
       <video autoPlay loop muted className="background-video">
-        <source src="https://res.cloudinary.com/dwiq4s5ut/video/upload/v1729090047/home_page_dk7ikp.mp4" type="video/mp4" />
+        <source src="home page (1).mp4" type="video/mp4" />
         Your browser does not support the video tag.
       </video>
       <div className="overlay"></div>
