@@ -12,7 +12,7 @@ const About = () => {
         <button className="about-button">Read more</button>
         <div className="feature-section">
           <video className="video" autoPlay loop muted>
-            <source src="https://res.cloudinary.com/dwiq4s5ut/video/upload/v1729090114/RightBackgroundEffect_eghgby.mp4" type="video/mp4" />
+            <source src="compress-RightBackgroundEffect.mp4" type="video/mp4" />
             Your browser does not support the video tag.
           </video>
           <div className="about-features">
